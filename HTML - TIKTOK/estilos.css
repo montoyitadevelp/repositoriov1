@@ -1,0 +1,14 @@
+.box {
+    text-align: center;
+    background-color: black;
+
+}
+
+.initial {
+    text-align: center;
+    font-size: x-large;
+}
+.types {
+    text-align: end;
+    background-color: aqua;
+}
